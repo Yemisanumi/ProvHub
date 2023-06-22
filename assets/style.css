@@ -1,0 +1,27 @@
+.col_1 {
+    /* background-image: linear-gradient(#DF6C4F 20%, #18C1F0 20% 50%, #25D366 50% 100%); */
+    background-color: #18C1F0;
+}
+
+.sub_1 {
+    width: 300px;
+    height: 300px;
+    top: -50px;
+    right: -50px;
+    border-radius: 100%;
+    background-color: #DF6C4F;
+}
+
+.col_2 {
+    z-index: 10;
+    background-color: #f8f8f8;
+}
+
+.sub_2 {
+    width: 650px;
+    height: 650px;
+    bottom: 0px;
+    right: 100px;
+    border-radius: 100%;
+    background-color: #25D366;
+}
